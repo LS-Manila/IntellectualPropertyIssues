@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=YI37FOVgXnI&feature=youtu.be&a
 Published on Oct 5, 2015
 Atty. Chris Cruz of DLSU
 
-REPUBLIC ACT NO. 8293
+## REPUBLIC ACT NO. 8293
 
 AN ACT PRESCRIBING THE INTELLECTUAL PROPERTY CODE AND
 ESTABLISHING THE INTELLECTUAL PROPERTY OFFICE, PROVIDING FOR ITS
@@ -116,3 +116,5 @@ of the employer.
 b. The employer, if the invention is the result of the performance of
 his regularly-assigned duties, unless there is an agreement,
 express or implied, to the contrary. (n)
+
+
