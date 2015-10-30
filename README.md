@@ -117,4 +117,13 @@ b. The employer, if the invention is the result of the performance of
 his regularly-assigned duties, unless there is an agreement,
 express or implied, to the contrary. (n)
 
+## Can I patent an iPhone app or other mobile app?
+http://www.richardspatentlaw.com/faq/have-an-idea/can-i-patent-an-iphone-app/
 
+Mobile apps, such as those sold in Apple's App Store for the iPhone and iPad and the Android Market for Android phones, are an increasingly profitable market.  With their rise in commercial success, mobile apps have increasingly been a hot topic for patent clients. Mobile apps are no different from other software when it comes to patent eligibility and patentability, which means yes, apps are patentable. However, there are nuances to explore when looking at whether it makes financial sense to pursue  a patent in a market in which a quick shelf life is the norm.
+
+I have been working with mobile developers for years in helping them patent their apps. A common strategy is to file a provisional utility patent application around the launch date of the mobile app and use the one year that the provisional application is “patent pending” to assess whether the market reaction is favorable enough to pursue a non-provisional patent application when the deadline comes. This strategy enables you to minimize your upfront investment in the patent process, while maintaining your rights to pursue patent protection for your mobile app while you explore the market.
+
+When working with mobile app developers, I am often able to prepare provisional patent applications for lower fees than a typical provisional application. This is because app developers often have very solid documentation of the invention (wireframes, screen shots, requirements docs., etc.) that helps to expedite the preparation of the provisional patent application. This can make the strategy of starting with a provisional patent application even more attractive.
+
+- Richards Patent Law P.C.
